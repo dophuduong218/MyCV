@@ -1570,3 +1570,6 @@ footer > a:last-child {
     text-underline-offset: 2px;
   }
 }
+
+/* Full name in the hero uses the accent blue */
+#name{color:var(--blue)}
